@@ -1,10 +1,10 @@
 <x-layout>
-  <x-slot:title></x-slot:title>
+  <x-slot:title><marquee direction="right"><a href="#"><blink>HOT DEALS!!! PROMO BACK TO SCHOOL!!! KLIK DISINI!!!</blink></a></marquee></x-slot:title>
   <section class="bg-white dark:bg-gray-900">
     <div class="grid max-w-screen-xl px-4 py-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12">
         <div class="mr-auto place-self-center lg:col-span-7">
             <h1 class="max-w-2xl mb-4 text-4xl font-extrabold tracking-tight leading-none md:text-5xl xl:text-6xl dark:text-white">Nyari Laptop Second? Pusat Laptop Nusantara Garut Aja!</h1>
-            <p class="max-w-2xl mb-6 font-light text-gray-500 lg:mb-8 md:text-lg lg:text-xl dark:text-gray-400">Melayani ratusan konsumen sejak 2021, kami menyediakan berbagai macam merk dan tipe laptop untuk berbagai kebutuhan anda.</p>
+            <p class="max-w-2xl mb-6 font-light text-gray-500 lg:mb-8 md:text-lg lg:text-xl dark:text-gray-400">Telah melayani ratusan konsumen sejak 2021, kami menyediakan berbagai macam merk dan tipe laptop untuk berbagai kebutuhan anda.</p>
             <a href="#" class="inline-flex items-center justify-center px-5 py-3 mr-3 text-base font-medium text-center text-white rounded-lg bg-primary-700 hover:bg-primary-800 focus:ring-4 focus:ring-primary-300 dark:focus:ring-primary-900">
                 Beli Sekarang
                 <svg class="w-5 h-5 ml-2 -mr-1" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
@@ -61,7 +61,7 @@
                             </div>
                         </div>
                         <div class="w-full">
-                            <p class="text-sm leading-tight"><span class="text-lg leading-none italic font-bold text-gray-400 mr-1">"</span>Rekomendasi nihh yang buat butuh laptop, harga terjangkau, kualitas di jamin dan pelayanan nya sangat memuaskan,
+                            <p class="text-sm leading-tight text-align:justify"><span class="text-lg leading-none italic font-bold text-gray-400 mr-1">"</span>Rekomendasi nihh yang buat butuh laptop, harga terjangkau, kualitas di jamin dan pelayanan nya sangat memuaskan,
                               Untuk pelayanannya juga sangat ramah ramah dan baik. Pokonya gak ada bandingan sama yang lain, rekomendasi banget dan puas untuk beli di toko Pusat Laptop Nusantara ♥️♥️<span class="text-lg leading-none italic font-bold text-gray-400 ml-1">"</span></p>
                               <center><span aria-hidden="true" style="font-size: 16px;">⭐⭐⭐⭐⭐</span></center>
                         </div>
@@ -71,15 +71,17 @@
                     <div class="w-full mx-auto rounded-lg bg-white border border-gray-200 p-5 text-gray-800 font-light mb-6">
                         <div class="w-full flex mb-4 items-center">
                             <div class="overflow-hidden rounded-full w-10 h-10 bg-gray-50 border border-gray-200">
-                                <img src="https://i.pravatar.cc/100?img=3" alt="">
+                              <a href="https://maps.app.goo.gl/z5H3aArtoCT76J9B7" class="hover:underline">
+                                <img src="https://lh3.googleusercontent.com/a-/ALV-UjU5ZA1MtueJDewt15apN-xkoMlzBh4a-Ald8HVuF8Ux1iFw_I4w=w45-h45-p-rp-mo-br100" alt="">
                             </div>
                             <div class="flex-grow pl-3">
-                                <h6 class="font-bold text-sm uppercase text-gray-600">Tommie Ewart.</h6>
+                                <h6 class="font-bold text-sm uppercase text-gray-600">Silvi Pratiwi</h6></a>
                             </div>
                         </div>
                         <div class="w-full">
-                            <p class="text-sm leading-tight"><span class="text-lg leading-none italic font-bold text-gray-400 mr-1">"</span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae, obcaecati ullam excepturi dicta error deleniti sequi.<span class="text-lg leading-none italic font-bold text-gray-400 ml-1">"</span></p>
-                        </div>
+                            <p class="text-sm leading-tight"><span class="text-lg leading-none italic font-bold text-gray-400 mr-1">"</span>Terimakasih banyak,, Barangnya saya terima..walaupun bekas, tapi barangnya bagus,, pelayanan yg memuaskan,, Ramah dan memberikan penerangan yg jelas,, tidak kapok membeli di Toko ini,, semoga laptopnya awet yaa kak..<span class="text-lg leading-none italic font-bold text-gray-400 ml-1">"</span></p>
+                            <center><span aria-hidden="true" style="font-size: 16px;">⭐⭐⭐⭐⭐</span></center>
+                          </div>
                     </div>
                     <div class="w-full mx-auto rounded-lg bg-white border border-gray-200 p-5 text-gray-800 font-light mb-6">
                         <div class="w-full flex mb-4 items-center">
