@@ -17,21 +17,25 @@ class CategorySeeder extends Seeder
         Category::create([
             'name' => 'Web Development',
             'slug' => 'web-development',
+            'color' => 'blue',
         ]);
 
         Category::create([
             'name' => 'Personal',
             'slug' => 'personal',
+            'color' => 'green',
         ]);
 
         Category::create([
             'name' => 'Design',
             'slug' => 'design',
+            'color' => 'red',
         ]);
 
         Category::create([
             'name' => 'Business',
             'slug' => 'business',
+            'color' => 'yellow',
         ]);
     }
 }
