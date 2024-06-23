@@ -1,5 +1,9 @@
 <x-layout>
-    <x-slot:title>{{ $title }}</x-slot:title>
+    <x-slot:title>
+        <marquee direction="right"><a href="#">
+            <blink>HOT DEALS!!! PROMO BACK TO SCHOOL!!! KLIK DISINI!!!</blink>
+        </a></marquee>
+    </x-slot:title>
     <!--
 Install the "flowbite-typography" NPM package to apply styles and format the article content:
 

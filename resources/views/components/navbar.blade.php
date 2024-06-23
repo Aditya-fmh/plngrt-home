@@ -150,11 +150,11 @@
         <div id="navbar-collapse-with-animation"
             class="hs-collapse hidden overflow-hidden transition-all duration-300 basis-full grow sm:block">
             <div class="flex flex-col sm:flex-row sm:items-center sm:justify-end py-2 md:py-0 sm:ps-7">
-                <a class="py-3 ps-px sm:px-3 font-medium text-white" href="" aria-current="page">Home</a>
-                <a class="py-3 ps-px sm:px-3 font-medium text-white/80 hover:text-white" href="#">Catalog</a>
-                <a class="py-3 ps-px sm:px-3 font-medium text-white/80 hover:text-white" href="#">Blog</a>
-                <a class="py-3 ps-px sm:px-3 font-medium text-white/80 hover:text-white" href="#">About Us</a>
-                <a class="py-3 ps-px sm:px-3 font-medium text-white/80 hover:text-white" href="#">Contact</a>
+                <a class="py-3 ps-px sm:px-3 font-medium text-white" href="/" aria-current="page">Home</a>
+                <a class="py-3 ps-px sm:px-3 font-medium text-white/80 hover:text-white" href="/catalog">Catalog</a>
+                <a class="py-3 ps-px sm:px-3 font-medium text-white/80 hover:text-white" href="/posts">Blog</a>
+                <a class="py-3 ps-px sm:px-3 font-medium text-white/80 hover:text-white" href="/about">About Us</a>
+                <a class="py-3 ps-px sm:px-3 font-medium text-white/80 hover:text-white" href="/contact">Contact</a>
                 {{-- 
         <div class="hs-dropdown [--strategy:static] sm:[--strategy:fixed] [--adaptive:none] sm:[--trigger:hover] py-3 ps-px sm:px-3">
           <button type="button" class="flex items-center w-full text-white/80 hover:text-white font-medium">

@@ -14,6 +14,14 @@ Route::get('/about', function () {
     return view('about', ['title' => 'About']);
 });
 
+Route::get('/contact', function () {
+    return view('contact', ['title' => 'Contact']);
+});
+
+Route::get('/catalog', function () {
+    return view('catalog', ['title' => 'Catalog']);
+});
+
 Route::get('/posts', function () {
     // $posts = Post::with(['author', 'category'])->latest()->get();
     $posts = Post::latest()->get();
