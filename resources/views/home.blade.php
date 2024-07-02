@@ -55,5 +55,5 @@
         </div>
     </div>
 
-
+    <script src="https://cdn.jsdelivr.net/npm/flowbite/js/flowbite.min.js"></script>
 </x-layout>
