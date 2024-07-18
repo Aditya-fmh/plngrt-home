@@ -1,4 +1,4 @@
-{{-- <nav class="bg-gray-800" x-data="{ isOpen: false }">
+<nav class="bg-gray-800" x-data="{ isOpen: false }">
     <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div class="flex h-16 items-center justify-between">
             <div class="flex items-center">
@@ -107,7 +107,7 @@
             </div>
         </div>
     </div>
-</nav> --}}
+</nav> 
 
 <!-- ========== HEADER ========== -->
 <header class="flex flex-wrap sm:justify-start sm:flex-nowrap z-50 w-full bg-gray-800 text-sm py-5 sm:py-3">
@@ -155,7 +155,7 @@
                 <a class="py-3 ps-px sm:px-3 font-medium text-white/80 hover:text-white" href="/posts">Blog</a>
                 <a class="py-3 ps-px sm:px-3 font-medium text-white/80 hover:text-white" href="/about">About Us</a>
                 <a class="py-3 ps-px sm:px-3 font-medium text-white/80 hover:text-white" href="/contact">Contact</a>
-                {{-- 
+                
         <div class="hs-dropdown [--strategy:static] sm:[--strategy:fixed] [--adaptive:none] sm:[--trigger:hover] py-3 ps-px sm:px-3">
           <button type="button" class="flex items-center w-full text-white/80 hover:text-white font-medium">
             Dropdown
@@ -192,12 +192,12 @@
               Team Account
             </a>
           </div>
-        </div> --}}
+        </div> 
 
-                {{-- <a class="flex items-center gap-x-2 font-medium text-white/80 hover:text-white sm:border-s sm:border-white/30 py-2 md:py-0 sm:my-6 sm:ps-6" href="#">
+                <a class="flex items-center gap-x-2 font-medium text-white/80 hover:text-white sm:border-s sm:border-white/30 py-2 md:py-0 sm:my-6 sm:ps-6" href="#">
           <svg class="flex-shrink-0 size-4" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
           Log in
-        </a> --}}
+        </a> 
             </div>
         </div>
     </nav>
